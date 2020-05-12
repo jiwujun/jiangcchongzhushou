@@ -1,0 +1,2 @@
+# jiangcchongzhushou
+使用百度API开发的翻译法降重助手
